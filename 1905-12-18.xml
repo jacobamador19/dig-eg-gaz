@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Your name</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>Jacob Amador
+                    <date when="2016-10-14">October 14, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1906-12-18">December 18, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, JULY 13, 1905. [SIX PAGES P.T. 1. </head>
+                <div type="section" scope="advertisement"> </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3"><div type="item">
+                <cb n="1"/>
+<head>REPRESSION IN RUSSIA </head>              
+<head>COURT WITTE’S POLICY.</head>
+<head>RAILWAY and postal strike.</head>
+<div type="item"> (Gazzette's Special Service.)
+    <p>London, Monday, Dec. 18.
+Connt Witte i* i o» trying to adopt a so-ere
+policy of repreosion The members of the work-
+men’n com cil have been arrested.
+A railway and postal strike is reported
+to-day from St. Petersburg.</p></div>
+<div type="item"><head>LOCAL AND GENERAL</head>
+<p>To-day’s telegrams.
+Reuter’e and Havas’ telegrams will be found
+on page 4 i f to day’s issue.
+</p>
+<p>Training Ship.
+The German training-ship 8 ein left Alex-
+andria yesterday morning for the Pitseus.</p>
+<p>Mouled.
+The monied of Sheikh Sale-min El-Pharioi
+will be held on the 6ch prox. at Bonlao, Cairo.</p>
+<p>Khedivial Club.
+'I he fir«t “At H im8” of the sev^n of th •
+Cerole Khedivial, Alexandria, will take pUce
+at 9.30 p.m. on Welnesli-y next, 20th inst.</p>
+<p>Railway Administration.
+Autoun B.-y Girgis, thienergetio station-
+master of the main Cairo station, has been
+promoted to ’he rank of deputy tr .ffi’ madager.</p>
+<p>Parade of Troops.
+The E.yptian troops in Cairo and the C»det«
+of the Military School will parade at the M >-
+hamed Aly- qaare on Wednesday next, the
+2uth instant, at 8 30 a.m.</p>
+<p>Attack on European.
+In re’erenoe to our report of an attack by
+natives on a Frenohm-n at Alexandria on
+Friday we are informed that no oumplaint has
+reached the polioe on the subjeot.</p>
+<p>Season's Events.
+The great ball of the year at Sh-pheard'n
+takes place on Jaunary 29. The bal marq-'d et
+pondrd at the Gh-zireb Palaoe Hotel is fixed
+for Shrove Tueeday (February 27)</p>
+<p>Cars in Collision.
+Several tram-cars oame into oollision in
+Mohame 1 Aly square! Cairo, on Saturday, some
+of them bein. derailed and smashed. An om i-
+bos, wbichwas passing at the time, oolhded
+violently and was shatter, d to pieces. A tram-
+driver and two tioke’.-ooileoturs wire injured
+by oommg into oontact with the eleotrio wires.</p>
+<p>Cadi Sentenced.
+Theoouuoil of di-cipline held yesterday a’
+tht Ministry of Justice, Cairo, has seuteuo-'d
+She'kti Ahmed Abou Khatwa, Cadi of the
+Mehkemch dharieh, to be suspended from hi
+fanotions tor a period of three m mths, wi hoot
+salary, f jr having des’royed an official docu-
+ment in the Mehkem.h.</p>
+<p>Condign Punishment.
+The Arabs who reoontly robbed a European
+near Tantah of £1,000 and added inj iry to
+theft, have barn sentenced to 15 years’ hard
+labour. The affair took plaoe loan tbau six
+weeks ago and ihe rapid capture of the robben-
+and prqmpt punishment teflaot great oredit on
+the Mmistri s of the Interior and of Justice
+and ih-ir officials.</p>
+<p>Scots School Fellow Workers’ Union.
+The sale ot Wvik under the auspices of the
+above tooiety was held in St, Andrew’s High
+School on Satnrday and was a great sneoese.
+Major Allan, of Glasgow, who was accompanied
+by his niece, Miss Kerr, performed the open-                
+ing ceremony, and in a lew appropriate re-               
+marks expres ed tbe pleaaare it gave him to
+be present, and the great interest he took i>
+the tchools. Miss Rote, in the name ot the
+soo'ety, then presented Miss Kerr with a
+bouquet. Thereafter the business of the s» eq
+was proceeded with, and went on briafry til
+6.311, by which hoar all the Btalls had sold off
+their ooirtents. The stall-holders and assist-
+ants were : Mesdames Buchaian, Gibb, and
+Thom, Misses Chevrier, Eiiezir, Hannah,Fran-
+ces, Mograbi, Mace, Rcfe, and Saffron. Darin,
+the afternoon Mr. 0. Stanley Heatou p ay •
+0 gan selections wh ch were much appreoiand
+Tbe rooms were leautifody decor.ted wiL
+plants aid evergreens kindly aent by Mr-.
+Ross, Gordon House.</p></div>
+<div type="item"><head>EDEN PALACE HOTEL,</head>
+<p>C A I R O.
+NOTED FOR ITS EXCKLLKNT CUISINE.
+BUBUTBI LIGHT. LIST. -
+Special terms for officers of the Army of Occupation and
+Government Officials.</p></div>
+   
+                <div type="item" scope="advertisement">
+                    <head>ARISTON AERATED WATERS</head>
+                    <p> Guaranteed Distilled.</p>
+                    <p> ALEXANDRIA: 7 Rue de la Poste. </p>
+                    <p>CAIRO opposite the Tramways Co. Works, Sharia Sahal, Kasr-el-Nil</p>
+                </div>
+ <div="item"><head>Anglo-American Nile Steamers</head>
+ AND
+ HOTEL COMPANY
+ River Transport of Goods between Alexandria and Cairo.
+ THREE SAILINGS A-WEEK
+ Agents at Alexandria
+ ALEXANDRIA BONDED WAREHOUSE CO. LTD </div>            
+                <cb n="2"/>
+                <head>YESTERDAY IN ALEXANDRIA.
+N0	RENEWAL OF DISTURBANCE
+TRIAL OF RIOTERS COMMENCES.</head>
+<p>A great deal was witten and said last week
+as to what might be expected to occur in the
+city yesterday. How far there was any real
+ground for alarm must remain a matter of
+uncertaintv The certainty is that nothing
+whatever of an untoward character happened.
+The trial of the natives accused of participation
+in the late riot proceeded without anything
+more serioas than a good deal of shooting in
+the arrest as the vans conveying the prisoners
+arrived and departed, and nothing worthy of
+note took place in Rosetta street</p>
+<p>The authorities are to be commended for the
+very effective precautions taken against a
+further riotous outbreak. Mounted polioe pa-
+trolled the low quarters of the town, and the
+latest attempt at riot wonld have been suppressed
+before it could have attained any serions
+proportions. But so quiet was every neighbor-
+hood, that a stranger unaware of the history of
+he last few days would have wondered what
+the extra display of force meant. We trust
+that this state of things may continue and
+that the rowdyism that has been, unfortun-
+ately, so rife among the lower classes, both
+European and native, may have received a
+check that will prove effective in the future.</p>
+<p>The trial of the persons implicated in the
+disturbances of Sunday week took plaoe yes-
+terday morning, in the Native Court. Rosetta-
+street The court was prodded over by Abl
+El	Megid Bey Fend, and Mahfonz Bey
+represented the Parquet, Hopkinson Bey,
+Morice Bey, and Haddaya Bey being present
+The number of the accused, brought into
+he court was 104. In the court-yard a crowd
+of about 200 natives had gathered, and 40
+policemen were on duty.</p>
+<p>At half-past eleven the president of the
+Parquet began his speech for the prosecution,
+naming the persons suspected of rioting. After
+giving particulars of the charge against 60 or
+7O prisoners, Mahtouz Bey asked the Court to
+allow 5 minuter respite, and this was granted.
+On resuming, Mahfeuz Bey contnued reading
+the long list of accused, making comments as
+he went on. When the reading of the list had
+been concluded, the president of ihe Patquet
+addressed the judge somewhat as follows;—</p>
+<p>"I trust you are not surprised at the
+spectacle of 104 persons under trial, as the
+mob that took part in the disturbance of Sun-
+day afternoon, of which these persons formed
+part, numbered 15,000 individuals. Indeed,
+we had not a sufficient number of police to
+arrest every one who took part in the distur-
+bance, and that is why the Fire Brigade was re-
+quisitioned to disperse the thousands of people.
+Therefore we cannot particularise the circum-
+stances of the event so far as to report what
+each of the rioters did. It was some what
+impossible to do so in such a wide-spread
+disturbanoe. We arrested 400 and after
+inquiry have discharged 1 half that number. The
+other haif, i e., the 200 prisoners, were seen
+by the police and the sheikhs of the quarters
+to be making a disturbauoe. Had there been
+witnesses to prove that the other 200 or part
+of them had taken part in the troubles we
+should of course have kept them to be
+tried. Had this disturbance taken plaoe
+15 years ago the Court would probably
+not have found an article in the Penal Code
+applicable to the present case, for it is only 15
+years since Articles 220 and 221 were added
+to the code, owing to a similar incedent which
+took place at that time... In short, we have
+brought these people before you in the hope
+that they will receive severe punishment to
+prevent furhter public disturbances. The case
+was first in the hands of the police, and it then
+passed into those of the Parquet, and now, the
+enquiry being oompiete I, beg to lay the case
+in your hands,trusting you will bear the respon-
+sibility of giving the proper judgment.”</p>
+<p>At the conclusion of the speech for the pro-
+secution, some discussion took plaoe as to the
+defence of the prisoners, and finally the hearing
+was adjourned till next Saturday.
+The trial of the second batch of 71 prisoners
+took place this morning in the same Court, and
+was still proceeding as we went to press.</p></div>
+
+   <div type="item">   <head>WAR OFFICE GAZETTE.</head>
+<p>Lieutenant A. E. King, Royal Garrison Artil-
+lery, having reported his arrival in Egypt from
+Bng and, is take * on the strength of the E.yp
+from the 1st October, 19o5, with
+the rank of Bimbashi. This officer is posted
+to the Artillery, and appointed Ordnance
+Officer.</p>
+<p>L eutenant J. G. E. Craik, Seaforth High
+landers, having reported his arrival in Egypt
+from England, is taken on the strength of the
+Egyptian Army, from the 23rd November,
+1905, with the rank of Bimbashi This officer is
+posted to the 3rd Battalion.</p>
+<p>Lieutenant O. L Smith, v.c., the Duke of
+Cornwall’s Light Infantry, having reported his
+arrival in Egypt from Gibraltar, is taken on
+the strength of the Egyptian Army, from 1st
+December, 1905, with the rank of Bimbashi.
+This  officer is pasted to the 2nd Battalion.</p>
+<p>El Bimbashi C. Leigh, D.S.O., Staff Officer,
+Khartoum District, to be Local Karmakam,
+whilst Acting Officer Commanding, 4th
+Bitalion To date 10-19-05.</p></div>
+MCR S HOTEL, Encampment
+OH 1,KK .V (KRIS
+Ih OoNNBCTXuH with 1HS Kahoqh Hqtei,
+Fatool
+For pgrtloalM* Apply Ur. TABOO, Fajroiua
+                <cb n="3"/>
+<head> THE CITY ELECTION.</head>
+<head>THREE-CORNERED CONTEST.</head>
+<head>GOVERNMENT APPOINTMENTS.
+</head>
+<head>(Gazette’s Special Service.)</head>
+<p> London, Monday, Dec. 18.
+In regard to the election of a member for the
+City, Sir E. Clarke has not yet withdrawn in
+favor of Lord Carton, and a three-cornered
+contest is therefore probable.</p>
+<p>Further Government appointments are to be
+announced to-morrow.</p>
+<div type= "item"><head>COUNCIL OF MINISTERS.</head>
+<p>The Council of Ministers met this morning
+under the presidency of H.H the Khedive and
+formally authorised the constriction of the
+Banah Barrage.</p>
+<p>Several decrees, referring to the expro-
+priation of land for purposes of pnblio utility,
+were also sigred.</p></div>
+<div="item"><head>POST CARD FACILITIES.</head>
+<head>NEW REGULATON.</head>
+<p>The regulations probib frog piotnre po-t
+jatdj to and from plaoes abroad from bearing
+\ communication on the left half of the
+address side have been relaxed so far as the
+Egyptian Post Office is con'ierned. 8" oh cards
+will henoeforth be aooepted at postoard rates
+for transmission to Austria. Belgium, Den-
+mark, Franoe, Germany, Holland, Hungary,
+Laly, Lnx“mbnrg, Mexico, Norway, Portugal,
+R saia, Sweden, 8 wit* -rland, Tunis, and the
+United Kingdom,</p></div>
+<div="item"><head>EXTENSION OF PENNY POSTAGE</head>.
+<p>Penny postage between the Straits Settle-
+ments and Egypt and the Sudan will come
+into force on the 1st January next, when
+letters from the Straits Settlements may be
+sent to this country or the Sudan for one
+penny, and letters from Egypt and the Sudan
+to the Settlements for five milliéme'</p></div>.
+<div="item"><head>GREEK LOAN.</head>
+<p>According to the “Levant Herald,” the
+3reek Patriarchate of Jerusalem having failed
+0 conclude a loan with the Natio al Bank of
+Jreeoe, Mgr. Damianos, Pa' riarch • f J-rmaLm
+las requested ’he Patriarch of Alexandria *o
+approach th - Greek fiua oiers in Egypt on tt q
+mbjeot.</p></div>
+<div="item"><head>TRADE'PROSPECTS WITH
+ABYSSINIA.</head>
+<p>The Berlin correspondent of the "Daily 
+Chronicle" telegraphs as follows:-"The treaty
+of commerce and friendship between Germany 
+and Abyasinia will be presented to the Rech-
+stag in a few days. The Minister of the Inte-
+rior is laboriously preparing a list of articles
+(for use in German Chambers of Commerce) in
+demand in Abyasinia. Through Abyasin a Ger-
+many hopes to open up  large caravan trade
+with Southern Sudan and the Interior of Africa</p></div>
+-- ~
+<div="item"><head>THE SUCRERIES.</head>
+<p>The fif'h meeting of the creditors of the
+3 cidte desSuoreVies et de laR.Smeried’Bgypte
+look place on Saturday at 8 p.m. Proceedings
+were brief and to the point. After Me. Ferrate
+bad appeared in the name of new creditors Me.
+Carton de Wiart stated that the administra-
+tive board h«d oome to an agreement over the
+oonditione of the arrangement, hot that a |
+telegram from Paris h g red that the text • f he ■
+proposals should not be given to the conrt till
+after Tuesday's meeting of the shareho'ders.
+Therefore, could the leaned judge postpone
+the hearing till Tharedey t Bnt Judge Took
+ooold not; h * had bad delays enough and would
+not eat bin wordsoi the last meeting. On Satur-
+day next a vote would be given on the propo-
+sals and the affiir would go before the
+Tribunal. Any rew postponements must be
+. Tinted by" that body, he would rtfase the
+responsihili'y. So on Satrd-y nextr.be Com-
+mercial Tribunal < f th“ Mixed I’o ut ake-i up
+the oase if any more delays ooour.</p></div>
+<head>ROADS IN EGYPT.</head>
+<p>For several years now, read construction in
+Egypt basbeen suspended, except upon a very
+limited soale, in oonsequenoe of the imp wsibi-
+lity of finding funds wherewith to maintain
+these roads, when oompletod, bat, in the budget
+for 1905, a sum of LE. 10,000 was allot-
+ted for this purpose, and road construction ;
+may in future be expeotod to show considerable ,
+anuoal progress. The denunjs (or new roac\s
+are steadily increasing, and the people fully
+..niiraoiai* ihaadvan ages g ift ed by e*-y com-
+munloa’ions,</p>
+<p>In Assiout Provi o\ a programme for e’fbt
+new roads has been approve i by the Ppinooial
+Council, and Work has been commenced
+In Mimeh a similar pr or.ogme is under
+oonsideratii q, while the Pro* me of Qhirgheh
+has voted a mm of LE 18,000 for the oon-
+(trnotion of four sow roods,	'</p>
+                <cb n="4"/>
+<head>SUEZ CANAL COLLISION.</head>
+<head>JUDGMENT IN CHATHAM CASE</head>.
+<head>CLAN CUMMING HELD RESPONSIBLE.</head>
+<div="item"><p>Sir Gorell Barnes and Trinity Masters, in
+die Admiralty Conrt, on Satnrday we k,
+joncloded the hearing of the oase of the owners
+if the Chatham and her crew, suing for loss of
+fffeotH, v. the owners i f the Clan Camming
+ind freight. Tbi« was a claim and oonnter-
+ilaim for damages, owing to a oollision which
+xoarred between the two vessels in the Suez
+Banal on September 5 last, resulting in the
+linking of the Chatham, whioh oanght fire.
+3he wau laden wittyi cargo of 180,' OOlbs. of
+iyuamite, and 160,600 detonators. The sink-
+ing of the Chatham leenlted in blocking the
+Muial traffic for a few days, until, by order of
+tbeqanal authorities, the vessel was blown np.
+The aotiou now came before the court for a
+ieoision as to whioh of the two vessels was to
+blame for the oollision.</p></div>
+<p>Iu giving judgment his Lordship said that in
+irder to appreciate the oollision it was ne-
+sestary to tee how these vessels were aproaoh-
+ing eaoh othur. Ac the part of the canal where
+the oollisii-n oconned, vessels proosediug
+louihwaid had to ‘ tie np” to posts whenever it
+was neoessaiy for steamers to past np. His
+Lordship then deait with the rales applying to
+lse of the searoh-iight and other lighta whioh
+iad beeu laid down, m the canal regulations,
+i’he southern-going vessel must show the
+iniliant light till ftie pat into the siding, and
+iben give tbe ordinary light to show she had
+;ot iheie. A vessel under enoh oiroumsianoea
+nuat aot reasonably wheu going south, while
+!id one going north must watoh and see she
+lid not get too near the other ship. He thought
+hat, having regard to the impossiuiiity ot
+>eiug certain ot the distanoe separating two
+rcss- Is under these oiroomstanoes, it wa»
+ibsolutely necessary for tbe vessel going north-
+vt>r l to keep herself well in hand, so that she
+vas oowpletely prepared to deal with any
+iveutuaheiei she jmght meet from the rhip
+ouuing south. Sir Gorell Barnes pcin ei out
+hat each side argued that the other
+res el had acted in an unreasonable mau-
+ler, and it was therefore neoe>sary to see
+vbat really did happen. He had no donbt
+hat the Chatham was at the time of the oolli-
+ion practically a stationary ship, and had
+toted in precisely tin same manner as the had
+io ed on two previous occasions, wheu she had
+Irawn up to allow three other vessels to psms.
+Phe rest of the oa»e was somewhat simple,
+ieoan«e the collision was a severe ooe, the
+Han Camming offttug, as she did, right into
+he bows of the Chatham as iar as the windlass.
+Phe oely other question was to examine
+rbe her the Clan Cumining bed proceeded
+nth proper and reasonable precaution. In his
+ipmion, and that of the Elder Brethren, those
+n oharge of the defendanta’ ship did not aot
+essonably in approach ng the Cuatham, having
+igued to the ludiQations given to them. The
+blame for the collision rested solely on the bad
+lavigation of the Clan Camming, and she must
+ie louud alone to blame for the oollision.</p>
+<p>After some little argument the question as
+o whether the ship was properly blown up was
+aft for farther oousideration.</p>
+<div="item"><head>THE JUDICIAL ADVISER</head>
+<p>The Judicial Adviser arrived atKenehyes-
+erday and attended the hearing ot some
+nmioal oases in the Assize Court of that tow r
+n n 1 ........</p></div>
+<div="item"><head>AN ALEXANDRIAN ANALOGY.</head>
+T<p>he United 8tates Government has followed
+he example set by British military anthpritiee
+vhen they passed troops through Egypt daring
+he Crimean War. A few days ago a detaohment
+torn the U.8. oroiser Minneapolis passed
+hroogh Benia in p ain clothes, bound for
+he defence of the Embassy in Petersburg.
+Baring the CritBeah Wary when British
+lavalry brigades were mostly represent-
+'d by casualties, after Balaclava, the 10th
+lussars were fetched from {ndiiy and loaned;
+hroogh Egypt inqivilian guise, to take i-hip*
+igaln at Alexandria, It tie a good way off,
+hen, from the Canal, and the authorities had
+to ohoioe bnt to bring the regiment along in
+his Wh > ly unprecedented fashion,</p></div>
+<div="item"><head>STEAMER MOVEMENTS</head>
+<p>The Mo s liner Amasis sailed this momiog
+for Liverpool, vii Malta, with pesseagert,
+mails, and general oargo, including 4,884 bales
+tottoii, **	'tm*- >	'9	v</p></div>
+                <cb n="5"/>
+<head>THE CAIRO KUTTABS.</head>
+<head>DISTRIBUTION OF GRANTS IN-AID.</head>
+<head>SPEECH BY H. E. THE MINISTER.</head>
+
+<p><div="item">The distribution of the grants-in-aid to the
+finis and arifii of the Cairo kattaba took plaoe
+yesterday morning at 10 o’olook,in the amphi-
+theatre of the examination \ halls of the Minis-
+tiy of Pnbiio lus motion, Darb-el Gamam’z,
+Cairo, under the preaideuoy of H.E. the Min-
+ister of Pnbiio luatruotiou, and in the presence
+of Yaoonb Artin Pasha, Abd-el-Haiim Pasha
+Assem, Mustapha Pat,ha Maher, Ismail Pasha
+Abbza, and Mr. Dunlop.
+Ihe proceedings oommenotd by a rsoital of
+one of the Suras of the Koran. Sheikh Mo-
+homed ihen£ inspector of Knttabs, then
+made a speech explaining the objeots of the
+grant-in-aid scheme aoddeaonbing the progress
+that had been rta.ioed.
+The grauts-iu-aid were then distributed, and
+HE. the Mmister of Pnbiio Instruction, in
+Closing the prooeeUi igs, Delivered a speech
+exhorting the fikiB to wnoie-hearied devotion
+to their oailiug.
+The following is a Frenoh translation of the
+speech of the H.E. the Minister of Pnbiio
+Instruction :—
+Lt statuuque qni vient d’fitre prdsentoe et
+le* snbvenuous que l’on vient de dieinbuer
+sunt le pins Eloquent disoonrs q .’on pause
+proLoaucr on dome sur le sojet qui nous
+uooupe. Biles pronvent a’une maiudra dvidente
+I’inidrdt quo lea Egyptians pienneut 41’iiutruo-
+tion et a l’danuatiou de leors enfant*, et la
+confianoe qu’ds one en vous, confianoe k la
+quelle Tons dovez rdpoudre eu traitanv la> en-
+fant* oonuue nu Don pbre traits sas prupre*
+eefanta ; elles prouvenc auosi que les uuti o-
+touts meritent d’6 re loud* pour iezd.e qn’ns
+ontapportdi I’aocoaiplissement de leur tithe.
+II est a aspdrer que vous forez to us voe efforts
+pour vous perieo.iouner et pour aa.d.M>rer ia
+aituatiou de vos Kouttaba, afin as mdiiter •
+,’avenir des rdoompenses enoore plus ioiportan-
+tes que oel,e^ que vous avts‘'rt;ue* jutqu’a ot
+jour.</div></p>
+
+<div="item"><head>INSPECTOR FOR SINAI.</head>
+<p>Mr. Brantley has been appointed inspector
+for the Sinai Peninsula of the War Office, with
+the powers ot an inspector uncer the MinLtr>
+of the Iuterior. Mr. Brantley's knowledge of
+the Bedouins of Egypt and the Sudan is re-
+markable, and the appointment ia one which
+inquires snob know.edge in the offio.ai to whom
+n is given.</p></div>
+
+<div="item"><head>IMPORTANT FIND OF PAPYRI</head>
+<p>Ou behalf of the Bodlean Library, Mr.
+Offutd has seonied a somewhat large ooileotion
+of fragmentary Haorew and Aramaio mano-
+senpto which it u to be hoped, when oarefnlly
+examined by the Oxford paleographers, will
+prove not oniy important, but perhaps oom-
+piete some of ihe portions of oodioeo already
+at Ox ord or Camonuge. So few papyri, or
+manuscripts, now reaoh Cairo because agents
+of European museums travel into the Egyptian
+provuioes to obtain them from the frUaheen,
+that it is fortunate that this series of duon
+menta has been found oomparatively intact.</p></div>
+
+<div="item"><head>GEHEZIREH PALACE</head>
+<p>-Theto w re several lun- hi-on parties given
+at the Gbez reh Palaoe Hotel yesterday. Mr.
+Viliemorin, first seoretary of the Frenoh
+Embassy, had a party of twelve, including M.
+and Mine d* 1a Boalitndre, Count and Conntass
+dc Sarionne, and Marquis Sglvaga-Raggi.
+Sir Hugh and Lady Sttilty were entertaining
+friends, as ilso were Lady Sampson, Mrs.
+Harrison, and Mrs. George Pauling. Many
+peoi le gathered for tea in the verandah daring
+the afternoon. From to-day (December 18) tbe
+Tz gane Band will play there every afternoon
+from 4-6 on the ve audah, and also every even-
+ing daring and after dinner.</p></div>
+
+<div="item"><head>HELOUAN WATER SERVICE.</head>
+<p>In 10 yean the amount of water supplied to
+private piraons at Hrhraaq Has more than
+doubled. TTie receipts from private oonsumeM
+were LE. ^95 last year in exoern of the
+previous year. An ample supply of water has
+been kept np throughout ’he iffiole yeer. Tbg,
+total grons profit for the year amonnts to
+L.R 3,('53.617. A sum of LK 606 figures as
+extraordinary expenditure. Of tbie>nm L.B.
+810 was spent for oast-iron pipes, valves, eta,
+LB. 107 for new Frager water m tres, and
+LR 190 for transport from Gh seh and ereethm
+of two 65 H.P. Lancashire boilers. Tbe ereotion
+of these (which an practically as good as new)
+gives a large steam reserve for many years
+to oome. 410 lin. mc’ros of 30 o/m. pipes have
+been laid from the town to the reservoir to
+■epieee the 15 cfm. pipes on main delivery
+from pumps. All oorroded tad small diatpeter
+pipes have now been removed and replaced ’Dy
+new ones. This completes the work bn the
+maib delivery. Qreat dissatisfaction exists in
+Hefonau h oause »e tneasons h we been taken
+m yet to supply the town with filtered w-ter.
+The oo-t would pot be gnat, as a complete ‘
+sandrfil.ter plant; similar to the one in Ghiseb,
+ooold be put np for L R 5. 0«', or amaohanioal
+filter plant for LJ V» O. Mr.Ourtis estimates
+that the oost of water webfeifa flushing pipes,
+and oontinnal cleaning of mnd from the
+foyrohn, would be sufficient to pay 8% per
+tafitub oh the cost oi the tttm,</p></div>
+                <cb n="6"/>
+<head>SAVOY SMALL DANCE</head>
+<head>THE FIRST OF THE SEASON</head>.
+<head>LARGE GATHERING OF CAIRO SOCIETY</head>
+<div="item"><p>The Savoy Hotel has a great reputation, and
+the entertainment provided ab Saturday even-
+ing will be hard to beat. Tbe invitations to
+the fi st small danoe of the season brought
+the whole of Cairo society together, -and th*
+Applications for dinners were so numerous
+that the management found it nonne-iy to
+atilise the adjoining private dining-rooms
+as well as the tent arranged as a winter
+garden.</p>
+<p>Amongst those giving dinnerparties wen:—
+Col. and Mrs. Patterson Bey, with a party
+of ten, inolndiag Miles de VilleboU, Mr.
+and Mn. Stout, etc.; the Hon. F. G. Morgen
+with seven guests, including CoL and Mrs.
+Matohctt, Mr. and the Hon. Mrs,; ffn—f,
+e a ; Mr. and Mrs. Charles Boyle; with Mrs.
+G orge Boyle and Capt and Mm. MoLean ;
+Si> Charles So -tter, who entertained
+Pa-ha Pehmy and his lamily. Among others
+dining were Baron von Opponheiin, Dr. Tribe
+and party, Marqnis de Pijravanti, .Major
+Davidson and party, M. and Mme Friedman
+and party, Mr. Lombard and party, Mr.
+Paxton and party, M. de Bdinski and party,
+Mrs. Lyman and party, Mr. and Mm.
+Porter, eta, eta</p>
+<p>The big dining-hall, with to exoeltent floor,
+was reserved for dancing, and by eleven
+o’clock that and ths halls and ■«i~'m were
+fit ed by a fashionable throng. Many nfSftrs
+of both the Army of Occupation and the
+Egypt an Army were promt, end the band
+supplied by Maestro Braoale kept people
+•lancing till the email hours, whan there was
+* general adjournment to the reetanrant for
+■upper.</p>
+<p>Vary many pretty droesw were to beseen, per-
+haps none.prettier than that of Mrs. Soott-
+Da gleiah, woo was universally admired in her
+pate blue chiffon diamante, with many ru filings
+interspersed with oream roses at the hem, and
+a wreath of the same flowers over her shoulders.
+Mis. Charles noyle was in biaok, aud Mm.
+MoUan was also in biaok, with mnoh jet on
+.he bodioe and topee of jet forming the top
+part ot her eieevee. Mrs. George Ruyla was
+wearing a charming soft white msslin «PMHted
+with cream guipure and overlaid with floral
+pray of fiimy biaok. At the rUwillaifff and
+-leaves and hem were many ruohings of soft
+biaok-edged gauze ribbon, and Utah velvet
+bows witn long diamond hackles Were on the
+bodioe terminating in long sash ends. Mm.
+Rom was in gold oh ffon valours, wide inser-
+tions of lace embroidered in golden passe-
+manterie eoeiraling the skirt aod forming the
+upper part of the eorsaga Mrs. Porter, one of
+< nr n.w residents, was ia white with mnoh
+aoe aud a deep draped oorselet. The Misroe
+Boliook ware drosaed alike in eteam net with
+folded oerotures and bows of pale Mae. Mm.
+Stoat had a lovely lace drees, the skirt with a
+doable floanoe adorned with appliqufe of
+Pompadeur pmk roses; the bodice, made with
+a small ba que, was also heavily appUqod
+with the roees.</p></div>
+<div="item"><head>PERSONAL AND SOCIAL</head> 
+<p>A farewell dinner was given at the Savoy' I
+Restaurant last evening in honour of CoL I
+Friend, who is leaving Egypt hnmbdiately. I
+Thof-e present were Lord Celril Pasha, Mr. I
+Satow, Col. J. K. Watson, Capt Lyons, Mr. I
+Crawley, M«jor Dalavoye, Mr. Astley Friend, I
+Mr. Watson, Capt Bigge, Mr. A.H. Ptary, Mr. I
+Geville, Mr. C. Clifton. Mr. L Reid, Gapt I
+Gillson, Capt Faylay, Capt MoMurdo, Mr. I
+Graham, Mr. Richmond, Capt. Protheroe I
+Smith.</p></div>	—	I
+<div="item"><p>Major Dunegan, who met with a hasty I
+aooi’ent on Gnesireh racecourse on Tuesday I
+last when his home fell while galloping on the I
+t-aok, is progree>»g as well as can be expected, I
+bnt it is feared *h»t his injury will interfere I
+wiihhis reiumiug duty for some tune.</p></div>	
+<div="item"><p>It is probable that Mgjdopa Wfaitehoure, I
+who has been a stranger tyKjypt for the last
+few years, will pay as a^ visit this season.</p></div>	
+<div="item"><p>Mrs. Farrar, Mim Nelly Farrar, Mm*Farrar, I
+and Mim Stuart left Mena Hotue Hotel I
+yesteiday for a trip np the Nila Mrs. Farrar I
+and her family will return to Mena House H
+Hotel in the first week of Marta.</p></div>
+<div="item"><p>Mr Rmeet Hill and Miur Wynne Roberts, 1
+from Rodleaf, Penghurst, arrived at Mena 1
+House Hotel a few days ago for a short stay.</p></div>
+<div="item"><p>Mr. Henry Simpson, the well-known artist,
+who has been staying at the Savoy Hotel, 1
+Luxor, left for Assouan a few days ago.</p></div>
+<div="item"><p>The latest arrivals at the Savoy Hotel,
+Luxor,, include Baron and Baroness von
+B ittler, Mir Henry Mosier and party, Mr. R. I
+Campbell Thompson, Mr. A. Wi Woodman 1
+Dondio, M. D., Mr. Nepit F. Tabet, Mr. Jelius
+Tun dor, Mr. Hans Trier.</p></div>	
+<div="item"><p>The following are the pmeengem by the P.S. I
+Prinee ABImm, which left StaUal yesterday 1
+Mrs. LaiJlaw, Hon. FionMe Heneegft Sir	I
+Vesey and Lady Strong, Misses BartnoO, lb. 1
+F. HOI, Mr- Leotard S. Tyler, Mr. Edward I
+Kirkham, Mm, E. MoClean, Mim Greg, Mm, I
+Attwood Mattbeim, Mr. J. If, fw,</p></div>	|
+
+                
+                
+                
+                
+                
+                
+            </div>
+            <div type="page" n="4">
+                <cb n="1"/>
+                <cb n="2"/>
+                <cb n="3"/>
+                <cb n="4"/>
+                <cb n="5"/>
+                <cb n="6"/>
+            </div>
+            <div type="page" n="5">
+                <cb n="1"/>
+                <cb n="2"/>
+                <cb n="3"/>
+                <cb n="4"/>
+                <cb n="5"/>
+                <cb n="6"/>
+            </div>
+            <div type="page" n="6">
+                <cb n="1"/>
+                <cb n="2"/>
+                <cb n="3"/>
+                <cb n="4"/>
+                <cb n="5"/>
+                <cb n="6"/>
+            </div>
+        </body>
+    </text>
+</TEI>
